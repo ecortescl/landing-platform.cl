@@ -22,11 +22,11 @@
           <span class="text-lg md:text-xl text-gray-300 block">Segundos</span>
         </div>
       </div>
-
     </div>
     <div class="absolute inset-0 z-0">
-      <svg class="animate-pulse" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect width="1920" height="1080" fill="url(#gradient)" />
+      <svg class="animate-pulse w-full h-full" viewBox="0 0 1920 1080" preserveAspectRatio="none" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <rect width="100%" height="100%" fill="url(#gradient)" />
         <defs>
           <radialGradient id="gradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
             gradientTransform="translate(960 540) rotate(90) scale(540 960)">
@@ -36,6 +36,9 @@
         </defs>
       </svg>
     </div>
+    <footer class="absolute bottom-4 text-center text-gray-400 text-sm">
+      &copy; {{ new Date().getFullYear() }} Platform SpA. Todos los derechos reservados.
+    </footer>
   </div>
 </template>
 
