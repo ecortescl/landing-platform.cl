@@ -1,5 +1,7 @@
 # 🚀 Platform.cl - Próximamente 🌟
 
+<img src="https://i.ibb.co/9vPsHP7/Fire-Shot-Capture-196-Platform-cl-Desarrollamos-aplicaciones-web-platform-cl.png"  />
+
 ¡Bienvenido al repositorio de Platform.cl! 🎉 Aquí encontrarás el código fuente de nuestra emocionante página "Coming Soon" que te dejará con ganas de más. 😄
 
 ## 🌈 Descripción
